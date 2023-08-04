@@ -23,4 +23,4 @@ The Ethical Hacking Project is a comprehensive analysis and assessment of securi
 
 ## License
 
-This project is licensed under the terms of the [LICENSE](LISENCE) file.
+This project is licensed under the terms of the [LICENSE](LICENSE) file.
